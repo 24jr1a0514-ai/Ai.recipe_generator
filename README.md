@@ -87,6 +87,7 @@ AI_Recipe_Generator/
     ├── history.json           # Recipe history storage
     └── favorites.json         # Favorites storage
 
+
 API Integration
 This project uses Google Gemini AI API. Get your free API key from Google AI Studio.
 Features Roadmap
